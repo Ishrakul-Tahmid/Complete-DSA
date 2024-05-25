@@ -1,3 +1,12 @@
+/*
+E
+DE
+CDE
+BCDE
+ABCDE
+
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
 void pattern18(int n)
