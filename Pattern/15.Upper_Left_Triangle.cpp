@@ -1,3 +1,11 @@
+/*
+A B C D E 
+A B C D 
+A B C 
+A B 
+A 
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
 void pattern12(int n)
