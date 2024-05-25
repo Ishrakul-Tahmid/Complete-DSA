@@ -1,3 +1,12 @@
+/*
+    A    
+   ABA   
+  ABCBA  
+ ABCDCBA 
+ABCDEDCBA
+
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
 void pattern17(int n)
