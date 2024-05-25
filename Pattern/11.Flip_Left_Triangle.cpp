@@ -1,3 +1,12 @@
+/*
+1
+01
+101
+0101
+10101
+
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
 void pattern10(int n)
