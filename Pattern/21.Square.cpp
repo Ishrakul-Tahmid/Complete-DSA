@@ -1,3 +1,12 @@
+/*
+*****
+*   *
+*   *
+*   *
+*****
+
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
 void pattern21(int n)
