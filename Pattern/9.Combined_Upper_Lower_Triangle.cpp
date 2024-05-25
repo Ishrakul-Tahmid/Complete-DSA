@@ -1,3 +1,17 @@
+/*
+    *
+   ***
+  *****
+ *******
+*********
+*********
+ ******* 
+  *****  
+   ***   
+    * 
+
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
 void pattern1(int n)
